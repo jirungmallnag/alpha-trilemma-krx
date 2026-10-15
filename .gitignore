@@ -1,0 +1,12 @@
+# KRX 원데이터 — 이용약관상 재배포 금지
+data/
+cache/
+cache_old_52m/
+*.parquet
+*.csv
+probe_report.json
+
+# 실행 결과물·환경
+output/
+__pycache__/
+.env
