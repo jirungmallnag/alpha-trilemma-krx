@@ -8,9 +8,9 @@ KRX Open API 데이터로 검증하는 개인 연구 프로젝트입니다.
 
 | 장 | 질문 | 상태 |
 |---|---|---|
-| 1 · Cult Alpha | 액티브·테마 ETF는 모멘텀에 얼마나 노출돼 있는가 | 데이터 수집 중 |
-| 2 · Purified Alpha | 모멘텀 크래시를 미리 피할 수 있는가 | 사전등록 초안 |
-| 3 · Hedgeable Alpha | LP가 헤지하기 어려운 ETF일수록 NAV 대비 괴리가 큰가 | 데이터 수집 중 |
+| 1 · Cult Alpha | 액티브·테마 ETF는 모멘텀에 얼마나 노출돼 있는가 | 코스닥 데이터 승인 대기 |
+| 2 · Purified Alpha | 모멘텀 크래시를 미리 피할 수 있는가 | **판정 완료** — 세 가설 모두 통과 못 함 ([결과](results/ch2_result.md)) |
+| 3 · Hedgeable Alpha | LP가 헤지하기 어려운 ETF일수록 NAV 대비 괴리가 큰가 | 사전등록 준비 중 |
 
 ## 원칙
 
